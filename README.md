@@ -2,7 +2,7 @@
 
 Implementation of exercise proposed in AA
 
-Aplica algoritmo Find-S para:
+Aplica algoritmo [Find-S](https://es.wikipedia.org/wiki/Algoritmo_find-s) para:
 
 ~~~
   X = R²  
